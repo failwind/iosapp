@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>TDCU_App.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>1</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>4CFD0216F8CAD2CE6B56C1ACDFAB38FEE55B8E68</string>
+				<key>dateExpires</key>
+				<string>2024/12/23</string>
+				<key>type</key>
+				<string>Cloud Managed iOS Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>Z9NPRTH2E4.org.epa.TDCU-App</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>Z9NPRTH2E4</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>TDCU_App.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>e6a75e6e-083a-4980-bd3d-1b2a5dc5d9eb</string>
+				<key>dateExpires</key>
+				<string>2023/8/2</string>
+				<key>name</key>
+				<string>iOS Team Inhouse Provisioning Profile: org.epa.TDCU-App</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>Z9NPRTH2E4</string>
+				<key>name</key>
+				<string>Environmental Protection Administration Executive Yuan, R.O.C.(Taiwan)</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>1.0.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>
